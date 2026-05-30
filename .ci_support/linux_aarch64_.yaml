@@ -25,9 +25,9 @@ fftw:
 glib:
 - '2'
 gstreamer:
-- '1.24'
+- '1.26'
 libcap:
-- '2.77'
+- '2.78'
 libiconv:
 - '1'
 libsndfile:
